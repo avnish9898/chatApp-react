@@ -1,7 +1,7 @@
 
 
 module.exports = {
-    db_link: "mongodb+srv://avnishQuovantis:TNadVCZVpbWYeQHe@cluster0.n7uht.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    db_link: `mongodb+srv://avnishsingh9898:${"Amarjit12"}@cluster0.yaoebxa.mongodb.net/?retryWrites=true&w=majority`,
     JWT_KEY: "asd2eidn92das",
     firebaseKey: {
         apiKey: "AIzaSyBFQH3PMkv-JcYKTx_45fbU3rW99KfNFgs",

@@ -59,7 +59,7 @@ userSchema.statics.login = async function (email, password) {
         throw Error("incorrect email")
     }
 }
-let userModel = mongoose.model("chatusermodel", userSchema)
+let userModel = mongoose.model("chatusersmodel", userSchema)
 module.exports = userModel
 // async function createData() {
 //     let user = { name: "avnish", email: "avnish@gmail.com", password: "1234", confirmPassword: "1234" }
